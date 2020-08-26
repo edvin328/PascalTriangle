@@ -1,0 +1,13 @@
+C:\Users\Driftpassion\C# projects\pascaltriangle_in_Csharp\bin\Debug\netcoreapp3.1\pascaltriangle_in_Csharp.exe
+C:\Users\Driftpassion\C# projects\pascaltriangle_in_Csharp\bin\Debug\netcoreapp3.1\pascaltriangle_in_Csharp.deps.json
+C:\Users\Driftpassion\C# projects\pascaltriangle_in_Csharp\bin\Debug\netcoreapp3.1\pascaltriangle_in_Csharp.runtimeconfig.json
+C:\Users\Driftpassion\C# projects\pascaltriangle_in_Csharp\bin\Debug\netcoreapp3.1\pascaltriangle_in_Csharp.runtimeconfig.dev.json
+C:\Users\Driftpassion\C# projects\pascaltriangle_in_Csharp\bin\Debug\netcoreapp3.1\pascaltriangle_in_Csharp.dll
+C:\Users\Driftpassion\C# projects\pascaltriangle_in_Csharp\bin\Debug\netcoreapp3.1\pascaltriangle_in_Csharp.pdb
+C:\Users\Driftpassion\C# projects\pascaltriangle_in_Csharp\obj\Debug\netcoreapp3.1\pascaltriangle_in_Csharp.csprojAssemblyReference.cache
+C:\Users\Driftpassion\C# projects\pascaltriangle_in_Csharp\obj\Debug\netcoreapp3.1\pascaltriangle_in_Csharp.AssemblyInfoInputs.cache
+C:\Users\Driftpassion\C# projects\pascaltriangle_in_Csharp\obj\Debug\netcoreapp3.1\pascaltriangle_in_Csharp.AssemblyInfo.cs
+C:\Users\Driftpassion\C# projects\pascaltriangle_in_Csharp\obj\Debug\netcoreapp3.1\pascaltriangle_in_Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Driftpassion\C# projects\pascaltriangle_in_Csharp\obj\Debug\netcoreapp3.1\pascaltriangle_in_Csharp.dll
+C:\Users\Driftpassion\C# projects\pascaltriangle_in_Csharp\obj\Debug\netcoreapp3.1\pascaltriangle_in_Csharp.pdb
+C:\Users\Driftpassion\C# projects\pascaltriangle_in_Csharp\obj\Debug\netcoreapp3.1\pascaltriangle_in_Csharp.genruntimeconfig.cache

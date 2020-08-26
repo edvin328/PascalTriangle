@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Driftpassion\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Driftpassion\\.nuget\\packages"
+    ]
+  }
+}
